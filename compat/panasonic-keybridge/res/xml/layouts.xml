@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keyboard-layouts xmlns:android="http://schemas.android.com/apk/res/android">
+    <keyboard-layout android:name="panasonic_keys" android:label="Panasonic APPS / Prime"
+        android:keyboardLayout="@raw/panasonic_keys" />
+</keyboard-layouts>

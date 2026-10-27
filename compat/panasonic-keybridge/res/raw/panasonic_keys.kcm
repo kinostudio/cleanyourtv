@@ -1,0 +1,4 @@
+# Local, opt-in overlay. All other mappings are inherited from the device.
+type OVERLAY
+map key 580 CALCULATOR
+map key 183 ENVELOPE
